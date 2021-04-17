@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: 
+url("https://p4.wallpaperbetter.com/wallpaper/262/976/887/money-dollars-wallpaper-preview.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.valorrp {
+  color:white;
+  border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.418)
+}
+.resultado {
+  background-color: white;
+  color:black;
+  border-radius: 15px;
+  width: 280px;
+  margin: auto;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.418)
+}
